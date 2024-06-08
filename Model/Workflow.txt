@@ -1,0 +1,4 @@
+Fine-tune GEMINI for the task, extraction fine-tuning of GEMINI (Supporting the Physician) 
+MLOPs how the model can be included in a web application ==Request expertise
+Beta testing with local partners (with local partner) 
+Deploying the model and marketing 
